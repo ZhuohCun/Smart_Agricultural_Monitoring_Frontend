@@ -98,7 +98,7 @@
   </el-footer>
   <el-aside class="weather">
     <h3>实时天气预报</h3>
-    <h4>曩宋东谷田智慧蔬菜种植基地</h4>
+    <h4>曩宋智慧蔬菜种植基地</h4>
     <div class="wcontainer">
       <cityname>梁河</cityname>
       <div class="imgbox">
